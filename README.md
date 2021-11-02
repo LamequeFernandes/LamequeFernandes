@@ -1,6 +1,6 @@
 ### Hillow, everything good?
 
-My name is Lameque, and I am a graduate student in software engineering at the University of Brasilia (UNB).
+My name is Lameque Fernandes, and I am a graduate student in software engineering at the University of Brasilia (UNB).
 
 [![Linkedin Badge](https://img.shields.io/badge/-lameque--fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lameque-fernandes/)](https://www.linkedin.com/in/lameque-fernandes/)
 [![Gmail Badge](https://img.shields.io/badge/-lamequesao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lamequesao@gmail.com)](mailto:lamequesao@gmail.com)
