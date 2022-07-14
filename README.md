@@ -1,5 +1,5 @@
 
-### Hillow, everything good?
+### Hi, everything good?
 
 My name is Lameque Fernandes, and I am a graduate student in software engineering at the University of Brasilia (UNB).
 
